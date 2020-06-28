@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Burn.Blue?
+                    Burn.Blue!!!
                 </div>
 
                 <div class="links">
