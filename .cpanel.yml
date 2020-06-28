@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/stage.burn.blue/
+    - export DEPLOYPATH=/home/burnblue/stage.burn.blue
     - /bin/cp -r * $DEPLOYPATH
