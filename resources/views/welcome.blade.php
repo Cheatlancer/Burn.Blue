@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Burn.Blue
                 </div>
 
                 <div class="links">
